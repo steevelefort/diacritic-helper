@@ -1,0 +1,28 @@
+{
+  "name": "diacritic-helper",
+  "version": "0.0.1",
+  "description": "A small node.js module that helps to find strings containing diacritics with regular expressions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/steevelefort/diacritic-helper"
+  },
+  "keywords": [
+    "node",
+    "diacritic",
+    "accent",
+    "search",
+    "regex",
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "Steeve Lefort <steeve@lefort-software.com> (http://www.lefort-software.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steevelefort/diacritic-helper/issues"
+  },
+  "homepage": "https://github.com/steevelefort/diacritic-helper"
+}
