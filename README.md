@@ -17,7 +17,7 @@ var toFind = "noel";
 var txt = "Vive le Père-Noël !";
 
 // Without diactric-helper
-var result1 = txt.replace(new RegExp("noel","gi"), "Fouettard")
+var result1 = txt.replace(new RegExp(toFind,"gi"), "Fouettard")
 console.log(result1);
 
 // With diactric-helper
